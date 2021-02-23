@@ -20,7 +20,7 @@ This code was used for the following paper:
 @misc{marjou2020oteann,
       title={OTEANN: Estimating the Transparency of Orthographies with an Artificial Neural Network}, 
       author={Xavier Marjou},
-      year={2020},
+      year={2019},
       eprint={1912.13321v1},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
