@@ -13,3 +13,16 @@ Both words and pronunciations are encoded as a sequence of Unicode characters.
 ![](oteann-writing.png?raw=true)
 
 ![](oteann-reading.png?raw=true)
+
+## Citation
+This code was used for the following paper:
+```bibtex
+@misc{marjou2020oteann,
+      title={OTEANN: Estimating the Transparency of Orthographies with an Artificial Neural Network}, 
+      author={Xavier Marjou},
+      year={2020},
+      eprint={1912.13321v1},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
